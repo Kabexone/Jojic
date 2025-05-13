@@ -1,2 +1,0 @@
-# Jojic
-Jojic-Page
