@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Попгай Жожик</title>
+    <meta http-equiv="refresh" content="3;url=https://pablo-restrepo.github.io/Troll-Page-Scream/">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: white;
+            font-family: sans-serif;
+        }
+        h1 {
+            font-size: 48px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Попгай Жожик</h1>
+</body>
+</html>
